@@ -2,17 +2,17 @@
     "products": [
       {
         "id": 1,
-       "name": "Moto G5",
+        "productname": "Moto G5",
         "quantity": 2
       },
       {
         "id": 2,
-        "name": "Racold Geyser",
+        "productname": "Racold Geyser",
         "quantity": 3
       },
       {
         "id": 3,
-        "name": "Dell Inspiron",
+        "productname": "Dell Inspiron",
         "quantity": 1
       },
       {
